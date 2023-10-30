@@ -1,0 +1,37 @@
+.first{
+    background-image:url(./assets/new.jpg);
+    height: 100vh;
+    margin: 0;
+    width: 100%;
+    
+    background-position: center;
+    background-size: auto;
+}
+.intro{
+    color: white;
+    letter-spacing: 4px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px; 
+    -webkit-text-stroke-color: white;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    color:rgb(166, 166, 166);
+    margin-top: 0px;
+}
+.mypic{
+   border-radius: 50%;
+   height: 250px;
+}
+.hero{
+    color:rgb(166, 166, 166);
+}
+body{
+    background-color: #111111;
+}
+
